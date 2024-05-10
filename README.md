@@ -1,1 +1,1 @@
-# seguran-adigital
+# segurança-adigital
